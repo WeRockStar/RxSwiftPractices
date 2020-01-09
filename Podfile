@@ -14,7 +14,7 @@ target 'RxSwiftPractices' do
     inherit! :search_paths
     pod 'RxSwift', '~> 5'
     pod 'RxCocoa', '~> 5'
-    pod 'RxSwiftExt', '~> 5'
+    pod 'RxTest', '~> 5'
   end
 
   target 'RxSwiftPracticesUITests' do
